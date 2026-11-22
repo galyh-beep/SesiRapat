@@ -1,0 +1,38 @@
+{
+  "background_color": "#1E1B4B",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "description": "Rapat rapi, presensi tercatat, notulen jadi. Versi statis satu perangkat: wizard rapat, presensi QR, Notulen Studio, tindak lanjut, template, dan arsip.",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "192x192",
+      "src": "icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon-512.png",
+      "type": "image/png"
+    }
+  ],
+  "id": "./",
+  "lang": "id",
+  "name": "SesiRapat",
+  "orientation": "portrait",
+  "scope": "./",
+  "short_name": "SesiRapat",
+  "start_url": "./index.html",
+  "theme_color": "#1E1B4B"
+}
